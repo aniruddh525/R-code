@@ -282,7 +282,6 @@ x|y
 
 x||y
 
-
 # Assignment Operators
 # 1. Left Assignment <- or == or <<-
 v1 <- c(3,1,TRUE,2+3i)
